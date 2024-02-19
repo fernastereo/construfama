@@ -19,7 +19,7 @@ return array(
 
 <!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading {"style":{"typography":{"fontSize":"40px","fontStyle":"normal","fontWeight":"700"}},"textColor":"primary","fontFamily":"nunito"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-nunito-font-family" style="font-size:40px;font-style:normal;font-weight:700">'. esc_html('Discover The Architectural Excellence Unveiling Innovative Design','architect-construction') .'</h2>
+<h2 class="wp-block-heading has-primary-color has-text-color has-nunito-font-family" style="font-size:40px;font-style:normal;font-weight:700">'. esc_html('Discover The Architectural Excelencia Unveiling Innovative Design','architect-construction') .'</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#8c93a6"},"elements":{"link":{"color":{"text":"#8c93a6"}}}},"fontSize":"medium","fontFamily":"nunito"} -->
